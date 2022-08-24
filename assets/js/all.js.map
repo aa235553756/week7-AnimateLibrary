@@ -1,0 +1,1 @@
+{"version":3,"sources":["all.js"],"names":["$","on","toggleClass"],"mappings":";;AAAAA,CAAC,CAAC,qBAAD,CAAD,CAAyBC,EAAzB,CAA4B,OAA5B,EAAoC,YAAU;AAC1CD,EAAAA,CAAC,CAAC,oBAAD,CAAD,CAAwBE,WAAxB,CAAoC,WAApC;AACH,CAFD","file":"all.js","sourcesContent":["$(\".header__menu__link\").on('click',function(){\r\n    $(\".header__hamburger\").toggleClass(\"sm-d-flex\");\r\n})"]}
